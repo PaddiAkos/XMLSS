@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<question id="1">
+    <answers>
+        <tool>Screw</tool>
+        <id>101</id>
+        <type2>WoodScrew</type2>
+        <size>3.0</size>
+    </answers>
+    <answers>
+        <tool>Screw</tool>
+        <id>102</id>
+        <type2>WoodScrew</type2>
+        <size>1.0</size>
+    </answers>
+    <answers>
+        <tool>Screw</tool>
+        <id>103</id>
+        <type2>IronScrew</type2>
+        <size>2.0</size>
+    </answers>
+    <answers>
+        <tool>Screw</tool>
+        <id>104</id>
+        <type2>IronScrew</type2>
+        <size>10.0</size>
+    </answers>
+    <answers>
+        <tool>Screw</tool>
+        <id>105</id>
+        <type2>WoodScrew</type2>
+        <size>122.0</size>
+    </answers>
+</question>
